@@ -64,3 +64,6 @@ else:
     print(f"🤝 It's a tie between {', '.join(winners)} with {highest_score} points!")
     print("🎉 Congratulations to all the winners!")
 print("="*50)
+
+
+#thank you for the update 
